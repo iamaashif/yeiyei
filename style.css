@@ -56,6 +56,11 @@ h1:hover{
 	justify-content: space-around;
 	width: 100%;
 }
+.container1 {
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+}
 .content1 h3{
 	color: black;
 	text-transform: uppercase;
@@ -65,7 +70,7 @@ h1:hover{
 	text-align: justify;
 	font-family: 'Josefin Sans';
 	font-size: 120%;
-	line-height: 20px;
+	line-height: 40px;
 	width: 80%;
 	margin: 0px 30px;
 }
